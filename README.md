@@ -1,5 +1,1 @@
-# App_architecture
-# App_architecture_first_exercise
-# App_architecture_first_exercise
-# App_architecture_first_exercise
 # App_architecture_first_exercise
